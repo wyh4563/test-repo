@@ -1,1 +1,3 @@
-A
+text file a
+I--커서
+changed
