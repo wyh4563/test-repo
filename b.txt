@@ -1,2 +1,2 @@
-text file b
-I--커서
+B
+this is written in github
